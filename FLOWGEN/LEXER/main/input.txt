@@ -9,5 +9,5 @@ program a var a, b, c, n : int begin
         n := n + 1;
         print(n);
         print(a)
-    end
+    end 
 end
